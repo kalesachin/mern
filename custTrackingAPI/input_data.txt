@@ -1,0 +1,116 @@
+{
+    "First_Name": "Radhika",
+    "Last_Name": "Sharma",
+    "Date_Of_Birth": "1995-09-26",
+    "e_mail": "radhika_sharma.123@gmail.com",
+    "phone": "9000012345",
+    "customerCreated": "2021-11-01T21:05:00Z",
+    "QueryFor": "Flat",
+    "QueryDetails": "2 BHK",
+    "BudgetMin": "75L",
+    "BudgetMax": "95L",
+    "TimeFrame": "30days",
+    "decisionMaker": "sole",
+    "comments": [
+        {
+            "custRep": "cr1",
+            "message": "My first comment",
+            "dateCreated": "2021-12-01T21:05:00Z",
+            "like": 0
+        },
+        {
+            "custRep": "cr2",
+            "message": "My first comment",
+            "dateCreated": "2022-01-09T21:05:00Z",
+            "like": 0
+        }
+    ]
+}
+
+*********************************************************************************************************
+{
+	"First_Name" : "Daimee",
+	"Last_Name" : "Moore",
+	"Date_Of_Birth" : "1990-02-16",
+	"e_mail" : "Daimee_Moore@gmail.com",
+	"phone" : "9000054321",
+	"customerCreated" : "2021-11-01T21:05:00Z",
+	"QueryFor" : "Flat",
+	"QueryDetails" : "2 BHK",
+	"BudgetMin" : "1.5cr",
+	"BudgetMax" : "2.0cr",
+	"TimeFrame" : "90days",
+	"decisionMaker" : "Husband",
+	"comments" : [
+		{
+			"custRep" : "cr3",
+			"message" : "Rachel is really wiered, doesnt uderstand her requirements!",
+			"dateCreated" : "2021-12-01T21:05:00Z",
+			"like" : 0
+		},
+		{
+			"custRep" : "cr4",
+			"message" : "Seems her husband is decisionMaker",
+			"dateCreated" : "2022-01-09T21:05:00Z",
+			"like" : 0
+		}
+	]
+}
+*********************************************************************************************************
+{
+	"First_Name" : "Fathima",
+	"Last_Name" : "Sheik",
+	"Date_Of_Birth" : "1984-02-16",
+	"e_mail" : "Fathima_Sheik.123@gmail.com",
+	"phone" : "9000054321",
+	"customerCreated" : ISODate("2021-11-01T23:55:00Z"),
+	"QueryFor" : "Flat",
+	"QueryDetails" : "2 BHK",
+	"BudgetMin" : "25L",
+	"BudgetMax" : "45L",
+	"TimeFrame" : "180days",
+	"decisionMaker" : "sole",
+	"comments" : [
+		{
+			"custRep" : "cr1",
+			"message" : "Interested in land",
+			"dateCreated" : ISODate("2021-12-01T21:05:00Z"),
+			"like" : 0
+		},
+		{
+			"custRep" : "cr2",
+			"message" : "seems bit confused",
+			"dateCreated" : ISODate("2022-01-10T02:05:00Z"),
+			"like" : 0
+		}
+	]
+}
+*********************************************************************************************************
+{
+	"First_Name" : "Ahmed Shah",
+	"Last_Name" : "Durrani",
+	"Date_Of_Birth" : "1974-02-16",
+	"e_mail" : "ahmed.durrani@gmail.com",
+	"phone" : "0987654321",
+	"customerCreated" : "2021-11-01T23:55:00Z",
+	"QueryFor" : "Flat",
+	"QueryDetails" : "2 BHK",
+	"BudgetMin" : "25L",
+	"BudgetMax" : "45L",
+	"TimeFrame" : "180days",
+	"decisionMaker" : "sole",
+	"comments" : [
+		{
+			"custRep" : "cr1",
+			"message" : "Interested in land",
+			"dateCreated" : "2021-12-01T21:05:00Z",
+			"like" : 0
+		},
+		{
+			"custRep" : "cr2",
+			"message" : "seems bit confused",
+			"dateCreated" : "2022-01-10T02:05:00Z",
+			"like" : 0
+		}
+	]
+}
